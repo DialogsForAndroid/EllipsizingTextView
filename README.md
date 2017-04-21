@@ -1,0 +1,2 @@
+# EllipsizingTextView
+An EllipsizingTextView
